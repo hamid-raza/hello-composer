@@ -1,11 +1,11 @@
 {
-    "name": "hamid-raza/remotiq-sdk",
+    "name": "hamid-raza/hello-composer",
     "description": "first sdk composer",
     "type": "library",
     "authors": [
         {
             "name": "Hamid Raza",
-            "email": "hamxa6667@gmail.com"
+            "email": "hamidkhan2582@gmail.com"
         }
     ],
     "license": "MIT",
