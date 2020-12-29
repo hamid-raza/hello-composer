@@ -1,0 +1,17 @@
+{
+    "name": "hamid-raza/remotiq-sdk",
+    "description": "first sdk composer",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Hamid Raza",
+            "email": "hamxa6667@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {"vitalis\\HelloWorld\\": "src/"}
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
