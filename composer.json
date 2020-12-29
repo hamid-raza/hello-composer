@@ -12,6 +12,6 @@
     "autoload": {
         "psr-4": {"vitalis\\HelloWorld\\": "src/"}
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {}
 }
